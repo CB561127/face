@@ -1,0 +1,73 @@
+10.JPGBri:1.5Sharp:2.0[
+  {
+    "faceAttributes": {
+      "accessories": [
+        {
+          "confidence": 0.96,
+          "type": "glasses"
+        },
+        {
+          "confidence": 0.97,
+          "type": "headwear"
+        }
+      ],
+      "age": 21.0,
+      "blur": {
+        "blurLevel": "low",
+        "value": 0.06
+      },
+      "emotion": {
+        "anger": 0.001,
+        "contempt": 0.0,
+        "disgust": 0.0,
+        "fear": 0.0,
+        "happiness": 0.996,
+        "neutral": 0.0,
+        "sadness": 0.0,
+        "surprise": 0.003
+      },
+      "exposure": {
+        "exposureLevel": "goodExposure",
+        "value": 0.69
+      },
+      "facialHair": {
+        "beard": 0.0,
+        "moustache": 0.0,
+        "sideburns": 0.0
+      },
+      "gender": "female",
+      "glasses": "ReadingGlasses",
+      "hair": {
+        "bald": 0.0,
+        "hairColor": [],
+        "invisible": true
+      },
+      "headPose": {
+        "pitch": 29.1,
+        "roll": 7.7,
+        "yaw": 2.7
+      },
+      "makeup": {
+        "eyeMakeup": false,
+        "lipMakeup": true
+      },
+      "noise": {
+        "noiseLevel": "low",
+        "value": 0.1
+      },
+      "occlusion": {
+        "eyeOccluded": false,
+        "foreheadOccluded": true,
+        "mouthOccluded": false
+      },
+      "smile": 0.996
+    },
+    "faceId": "7bd74d40-e2d2-4dc3-8880-d14d762c821e",
+    "faceRectangle": {
+      "height": 165,
+      "left": 317,
+      "top": 62,
+      "width": 165
+    }
+  }
+]
